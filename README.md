@@ -64,7 +64,7 @@ The solution involves a hybrid architecture:
     * Train the GAN to generate augmented samples.
     * Train the final Classifier to evaluate performance.
 
-## Results
+## Results (GAN)
 
 - Data Augmentation: 1500 Synthetic Images Created
   
