@@ -63,3 +63,9 @@ The solution involves a hybrid architecture:
     * Execute the preprocessing blocks to load `Au` and `Tp` images.
     * Train the GAN to generate augmented samples.
     * Train the final Classifier to evaluate performance.
+
+## Results
+
+- Data Augmentation: 1500 Synthetic Images Created
+  
+- Level of Improvement in Forgery Detection Accuracy: 1.50 %
